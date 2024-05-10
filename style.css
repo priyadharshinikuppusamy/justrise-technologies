@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(124, 9, 120, 0.751);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#content{
+    width: 500px;
+    float: right;
+}
+#priya{
+    margin-left: 20px;
+    float:right;
+    width: 500px;
+    color: blueviolet;
+}
+.section1{
+    color: cadetblue;
+    text-decoration: dashed;
+}
+.raji{
+    color: brown;
+}

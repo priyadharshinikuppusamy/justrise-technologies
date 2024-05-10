@@ -1,0 +1,46 @@
+.btn-base{
+    width: 150px;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn-light{
+    background-color: blueviolet;
+    color: aliceblue;
+    border: none;
+
+}
+.btn-dark{
+    background-color: brown;
+    color: aliceblue;
+    border: none;
+    
+}
+.btn-outline{
+    background-color:violet;
+    color: #302ea3;
+    border: 1px solid #302ea3;
+}
+.btn-style{
+    background-color: chocolate;
+    color: #363043;
+    border: 2px solid violet;
+    width: 150px;
+    padding: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    
+
+}
+.btn-style:hover{
+    background-color: blueviolet;
+    color: azure;
+
+}
+.priya{
+    padding: 25px;
+    background-color: blue;
+    font-family: cursive;
+    
+}
